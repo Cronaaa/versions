@@ -7,5 +7,4 @@
 5. change the background colour when i press the button
 6. change text inside of button when clicked
 7. set up background colour
-Have done:
-1. -> 7.
+Have done: 1. -> 7.
